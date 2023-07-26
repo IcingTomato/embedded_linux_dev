@@ -1,5 +1,5 @@
 embedded_linux_dev
 ==================
 
-A library for all the embedded Linux development
+See all sorts of  the embedded Linux development, also names 阅板无数 in Chinese
 
